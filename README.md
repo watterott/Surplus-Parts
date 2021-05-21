@@ -20,6 +20,7 @@ Atmel/Microchip     | ATXMEGA128A4U-AU    | LQFP-44   |    100   | 2016
 Atmel/Microchip     | ATSAMW25H18-MR210PB | Module    |    100   | 2020
 Atmel/Microchip     | ATWINC1500-MR210PB  | Module    |    250   | 2021
 Cypress/Infineon    | CY8C5288LTI-LP090   | QFN-68    |     50   | 2020
+MacroSilicon        | MS9288A             | QFN-48    |    490   | 2019
 NXP                 | LPC1778FBD144       | LQFP-144  |     80   | 2021
 NXP                 | LPC1788FBD208       | LQFP-208  |    120   | 2021
 STMicroelectronics  | SPBTLE-RFTR         | Module    |    450   | 2017
