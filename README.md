@@ -17,7 +17,7 @@ Atmel/Microchip     | ATMEGA32U4-MU       | QFN-44    |    200   | 2016
 Atmel/Microchip     | ATMEGA64A-AU        | TQFP-64   |     90   | 2016
 Atmel/Microchip     | ATMEGA2560-16AU     | TQFP-100  |   >500   | 2016
 Atmel/Microchip     | ATSAM4SA16B-AU      | LQFP-64   |    150   | 2014
-Atmel/Microchip     | ATXMEGA128A1-AU     | TQFP-100  |   >500   | 2015
+Atmel/Microchip     | ATXMEGA128A1-AU     | TQFP-100  |          | 2015
 Atmel/Microchip     | ATXMEGA128A4U-AU    | LQFP-44   |    100   | 2016
 Atmel/Microchip     | ATSAMW25H18-MR210PB | Module    |    100   | 2020
 Atmel/Microchip     | ATWINC1500-MR210PB  | Module    |    250   | 2021
