@@ -27,7 +27,7 @@ NXP                 | LPC1778FBD144       | LQFP-144  |     80   | 2021
 NXP                 | LPC1788FBD208       | LQFP-208  |    120   | 2021
 NXP/Freescale       | MKL25Z128VLH4       | LQFP-64   |          | 2017
 STMicroelectronics  | SPBTLE-RFTR         | Module    |    450   | 2017
-STMicroelectronics  | STM32F042K6T6       | LQFP-32   |    400   | 2017
+STMicroelectronics  | STM32F042K6T6       | LQFP-32   |    400   | 2016
 STMicroelectronics  | STM32G070RBT6       | LQFP-64   |     10   | 2020
 STMicroelectronics  | STM32G071RBT6       | LQFP-64   |     10   | 2020
 Texas Instruments   | TFP401APZPG4        | HTQFP-100 |   >500   | 
