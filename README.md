@@ -16,7 +16,6 @@ Atmel/Microchip     | ATTINY841-MU        | QFN-20    |    100   | 2020
 Atmel/Microchip     | ATMEGA8A-AU         | TQFP-32   |    100   | 2016
 Atmel/Microchip     | ATMEGA16U2-MU       | QFN-32    |          | 2014
 Atmel/Microchip     | ATMEGA32U4-MU       | QFN-44    |    200   | 2016
-Atmel/Microchip     | ATMEGA64A-AU        | TQFP-64   |     90   | 2016
 Atmel/Microchip     | ATMEGA2560-16AU     | TQFP-100  |   >500   | 2016
 Atmel/Microchip     | ATSAM4SA16B-AU      | LQFP-64   |    150   | 2014
 Atmel/Microchip     | ATXMEGA128A1-AU     | TQFP-100  |          | 2015
