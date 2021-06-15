@@ -11,6 +11,7 @@ Please contact us by [email](https://shop.watterott.com/Contact), if you are int
 ---
 Manufacturer        | Part Number         | Package   | Quantity |Year of Date-Code or Purchase
 ------------------- | ------------------- | --------- | -------- | ----------------------------
+Atmel/Microchip     | ATTINY841-MU        | QFN-20    |    100   | 2020
 Atmel/Microchip     | ATMEGA8A-AU         | TQFP-32   |    100   | 2016
 Atmel/Microchip     | ATMEGA16U2-MU       | QFN-32    |          | 2014
 Atmel/Microchip     | ATMEGA32U4-MU       | QFN-44    |    200   | 2016
