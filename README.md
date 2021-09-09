@@ -20,7 +20,7 @@ Atmel/Microchip     | ATMEGA2560-16AU     | TQFP-100  |   >500   | 2016
 Atmel/Microchip     | ATSAM4SA16B-AU      | LQFP-64   |    150   | 2014
 Atmel/Microchip     | ATXMEGA128A1-AU     | TQFP-100  |          | 2015
 Atmel/Microchip     | ATSAMW25H18-MR210PB | Module    |    100   | 2020
-Atmel/Microchip     | ATWINC1500-MR210PB  | Module    |    250   | 2020
+Atmel/Microchip     | ATWINC1500-MR210PB  | Module    |    100   | 2020
 Cypress/Infineon    | CY8C5288LTI-LP090   | QFN-68    |     50   | 2020
 NXP                 | LPC1778FBD144       | LQFP-144  |     80   | 2014
 NXP                 | LPC1788FBD208       | LQFP-208  |    120   | 2020
