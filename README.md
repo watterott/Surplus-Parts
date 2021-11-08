@@ -20,8 +20,6 @@ Atmel/Microchip     | ATSAM4SA16B-AU      | LQFP-64   |    150   | 2014
 Atmel/Microchip     | ATXMEGA128A1-AU     | TQFP-100  |          | 2015
 NXP/Freescale       | MKL25Z128VLH4       | LQFP-64   |          | 2017
 STMicroelectronics  | SPBTLE-RFTR         | Module    |    450   | 2017
-STMicroelectronics  | STM32G070RBT6       | LQFP-64   |     10   | 2020
-STMicroelectronics  | STM32G071RBT6       | LQFP-64   |     10   | 2020
 Texas Instruments   | TFP401APZPG4        | HTQFP-100 |   >500   | 
 WorldSemi           | WS2812B             | 5050      |  >10000  | 2020
 WorldSemi           | WS2812B Black       | 5050      |  >10000  | 2020
