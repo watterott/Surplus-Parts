@@ -12,10 +12,8 @@ Please contact us by [email](https://shop.watterott.com/Contact), if you are int
 Manufacturer        | Part Number         | Package   | Quantity |Year of Date-Code or Purchase
 ------------------- | ------------------- | --------- | -------- | ----------------------------
 Atmel/Microchip     | ATECC608B-MAHCZ-S   | UDFN-8    |   2500   | 2020
-Atmel/Microchip     | ATMEGA16U2-MU       | QFN-32    |          | 2014
-Atmel/Microchip     | ATMEGA32U4-MU       | QFN-44    |    200   | 2016
+Atmel/Microchip     | ATMEGA16U2-MU       | QFN-32    |    200   | 2014
 Atmel/Microchip     | ATSAM4SA16B-AU      | LQFP-64   |    150   | 2014
-NXP/Freescale       | MKL25Z128VLH4       | LQFP-64   |          | 2017
 STMicroelectronics  | SPBTLE-RFTR         | Module    |    450   | 2017
 Texas Instruments   | TFP401APZPG4        | HTQFP-100 |   >500   | 
 WorldSemi           | WS2812B             | 5050      |  >10000  | 2020
