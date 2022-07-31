@@ -12,7 +12,7 @@ Please contact us by [email](https://shop.watterott.com/Contact), if you are int
 Manufacturer        | Part Number         | Package   | Quantity |Year of Date-Code or Purchase
 ------------------- | ------------------- | --------- | -------- | ----------------------------
 Cirrus Logic        | CS4265              | QFN-32    |    750   | 2020
-Cypress             | CY8C5268LTI-LP030   | QFN-68    |      6   | 2017
+Cypress             | CY8C5268LTI-LP030   | QFN-68    |      4   | 2017
 LiteOn              | 6N137S              | SMD-8     |    750   | 2020
 Microchip           | MCP6001T-I/OT       | SOT23-5   |   2000   | 2020
 NXP                 | LPC1778FBD144       | LQFP-144  |    400   | 2020
