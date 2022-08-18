@@ -15,7 +15,7 @@ Cirrus Logic        | CS4265              | QFN-32    |    750   | 2020
 Cypress             | CY8C4245PVI-482     | SSOP-28   |     10   | 2017
 Cypress             | CY8C5268LTI-LP030   | QFN-68    |      4   | 2017
 LiteOn              | 6N137S              | SMD-8     |    750   | 2020
-LogicGreen          | LGT8F328P           | QFP32-32  |     40   | 
+LogicGreen          | LGT8F328P           | QFP-32    |     40   | 
 Microchip           | MCP6001T-I/OT       | SOT23-5   |   2000   | 2020
 NXP                 | LPC1778FBD144       | LQFP-144  |    400   | 2020
 NXP                 | LPC1778FBD208       | LQFP-208  |    200   | 2020
