@@ -23,8 +23,8 @@ STMicroelectronics  | STM32G0B0KET6       | LQFP-32   |      3   |
 STMicroelectronics  | STM32G0B1RET6       | LQFP-64   |      3   | 
 STMicroelectronics  | SPBTLE-RFTR         | Module    |    450   | 2017
 Texas Instruments   | TFP401APZPG4        | HTQFP-100 |   >500   | 
-WorldSemi           | WS2812B             | 5050      |  >10000  | 2020
-WorldSemi           | WS2812B Black       | 5050      |  >10000  | 2020
-WorldSemi           | WS2813E             | 5050      |  >10000  | 2020
-WorldSemi           | WS2812B             | 2020      |  >10000  | 2020
-WorldSemi           | WS2812C             | 2020      |  >10000  | 2020
+WorldSemi           | WS2812B             | 5050      |  >10000  | 
+WorldSemi           | WS2812B Black       | 5050      |  >10000  | 
+WorldSemi           | WS2813E             | 5050      |  >10000  | 
+WorldSemi           | WS2812B             | 2020      |  >10000  | 
+WorldSemi           | WS2812C             | 2020      |  >10000  | 
