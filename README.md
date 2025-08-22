@@ -11,6 +11,7 @@ Please contact us by [email](https://shop.watterott.com/Contact), if you are int
 ---
 Manufacturer        | Part Number         | Package   | Quantity |Year of Date-Code or Purchase
 ------------------- | ------------------- | --------- | -------- | ----------------------------
+AXElite             | AX5201ESA           | SOP8-EP   |    100   | 
 Cirrus Logic        | CS4265              | QFN-32    |    750   | 2020
 Cypress/Infineon    | CY8C4245PVI-482     | SSOP-28   |     10   | 2017
 Cypress/Infineon    | CY8C5268LTI-LP030   | QFN-68    |      4   | 2017
