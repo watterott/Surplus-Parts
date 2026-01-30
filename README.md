@@ -21,8 +21,6 @@ Microchip           | ATWINC1500-MR210PB  | Module    |  >1000   |
 Microchip           | MCP6001T-I/OT       | SOT23-5   |   2000   | 2020
 NXP                 | LPC1778FBD208       | LQFP-208  |    200   | 2020
 STMicroelectronics  | STM32G070RBT6       | LQFP-64   |    135   | 
-STMicroelectronics  | STM32G0B0KET6       | LQFP-32   |      3   | 
-STMicroelectronics  | STM32G0B1RET6       | LQFP-64   |      3   | 
 STMicroelectronics  | SPBTLE-RFTR         | Module    |    450   | 2017
 Texas Instruments   | TFP401APZPG4        | HTQFP-100 |   >500   | 
 WorldSemi           | WS2812B             | 5050      |  >5000   | 
