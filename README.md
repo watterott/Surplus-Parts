@@ -13,9 +13,6 @@ Manufacturer        | Part Number         | Package   | Quantity |Year of Date-C
 ------------------- | ------------------- | --------- | -------- | ----------------------------
 AXElite             | AX5201ESA           | SOP8-EP   |    100   | 
 Cirrus Logic        | CS4265              | QFN-32    |    750   | 2020
-Cypress/Infineon    | CY8C4245PVI-482     | SSOP-28   |     10   | 2017
-Cypress/Infineon    | CY8C5268LTI-LP030   | QFN-68    |      4   | 2017
-Cypress/Infineon    | CY8C5288LTI-LP090   | QFN-68    |     60   | 2022
 Microchip           | ATSAMW25H18-MR210PB | Module    |    300   | 
 Microchip           | ATWINC1500-MR210PB  | Module    |  >1000   | 
 Microchip           | MCP6001T-I/OT       | SOT23-5   |   2000   | 2020
