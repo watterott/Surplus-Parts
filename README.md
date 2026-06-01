@@ -14,7 +14,6 @@ Manufacturer        | Part Number         | Package   | Quantity |Year of Date-C
 AXElite             | AX5201ESA           | SOP8-EP   |    100   | 
 Cirrus Logic        | CS4265              | QFN-32    |    750   | 2020
 Microchip           | ATSAMW25H18-MR210PB | Module    |    300   | 
-Microchip           | ATWINC1500-MR210PB  | Module    |  >1000   | 
 Microchip           | MCP6001T-I/OT       | SOT23-5   |   2000   | 2020
 NXP                 | LPC1778FBD208       | LQFP-208  |    200   | 2020
 STMicroelectronics  | STM32G070RBT6       | LQFP-64   |    135   | 
