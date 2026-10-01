@@ -17,6 +17,7 @@ Microchip           | ATSAMW25H18-MR210PB | Module    |    300   |
 Microchip           | MCP6001T-I/OT       | SOT23-5   |   2000   | 2020
 NXP                 | LPC1778FBD208       | LQFP-208  |    200   | 2020
 STMicroelectronics  | STM32G070RBT6       | LQFP-64   |    135   | 
+STMicroelectronics  | STM32G0B1RCT6       | LQFP-64   |    150   | 
 STMicroelectronics  | SPBTLE-RFTR         | Module    |    450   | 2017
 Texas Instruments   | TFP401APZP          | HTQFP-100 |    270   | 2018
 WorldSemi           | WS2812B             | 5050      |  >5000   | 
